@@ -27,7 +27,7 @@ Ensure the following are installed:
 
 ### 1. Clone or download the project
 ```bash
-git clone https://github.com/yourusername/companies-house-assessment.git
+git clone https://github.com/karenmungai/companies-house-technical-assessment.git
 cd companies-house-assessment
 ```
 
