@@ -1,10 +1,10 @@
-# 🧪 Companies House QA Assessment – README
+# Companies House QA Assessment – README
 
 This repository contains a test automation suite for [https://automationintesting.online](https://automationintesting.online), created as part of the Lead Test Engineer assessment.
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
 - ✅ Automated tests using **Playwright + TypeScript**
 - ✅ Functional test coverage of booking, navigation, validation, and UI feedback
@@ -13,7 +13,7 @@ This repository contains a test automation suite for [https://automationintestin
 
 ---
 
-## 📦 Prerequisites
+## Prerequisites
 
 Ensure the following are installed:
 - **Node.js** – [https://nodejs.org](https://nodejs.org)
@@ -23,7 +23,7 @@ Ensure the following are installed:
 
 ---
 
-## 🚀 Setup & Run Instructions
+## Setup & Run Instructions
 
 ### 1. Clone or download the project
 ```bash
@@ -51,7 +51,7 @@ npx playwright show-report
 
 ---
 
-## 🧪 Test Coverage Summary
+## Test Coverage Summary
 
 | Area Tested         | Description                                           |
 |---------------------|-------------------------------------------------------|
