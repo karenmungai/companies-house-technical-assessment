@@ -1,4 +1,4 @@
-# Companies House QA Assessment – README
+# Companies House QA Lead Assessment – README
 
 This repository contains a test automation suite for [https://automationintesting.online](https://automationintesting.online), created as part of the Lead Test Engineer assessment.
 
